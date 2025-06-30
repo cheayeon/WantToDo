@@ -1,0 +1,10 @@
+button{
+  width: 50px;
+  height: 50px;
+  margin: 3px;
+}
+
+#board {
+  white-space: nowrap;    /* 줄바꿈 방지 */
+  overflow-x: auto;       /* 가로 스크롤 허용 */
+}
